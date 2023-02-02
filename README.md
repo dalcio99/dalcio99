@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dalcio99
 - 👀 I’m currently studying pure math at university.
 - 📫 If you want, you can reach me at: nic.dalcin@gmail.com
-- <!---
+<!---
 - 🌱 In the past I mainly focused on mathematical physics (quantum field theory and general relativity), but now I'm getting into Cryptography:
 I like how lots of theoretical and different mathematical results can be applied there, even in a fun way! 
 
