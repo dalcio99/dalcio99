@@ -1,5 +1,5 @@
-- Hi, I'm Nicola!
-- 👀 I am currently attending the second year of a Master’s program in Mathematics.
+- Welcome to my GitHub, I am Nicola!
+- I am currently attending the second year of a Master’s program in Mathematics.
 - In addition, I am a student at the [School for Advanced Studies of the University of Udine](https://superiore.uniud.it/it) a merit-based higher institution that organizes courses for excellent students.
 - At the moment, I am interested in **Dynamical Systems**, **Algebraic geometry**, and specifically in some of their applications in **Machine Learning** and **Cryptography**.
 - If you want, you can reach me at: nic.dalcin@gmail.com
