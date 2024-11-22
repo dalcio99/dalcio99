@@ -2,5 +2,5 @@
 - Currently, I am a PhD candidate at the [Max Planck Institute for the Science of Light](https://mpl.mpg.de/) (Erlangen, Germany).
 - I am interested ***Neuromorphic Computing*** and ***Machine Learning for Physics.***
 - Previously, I studied Pure Mathematics at the University of Udine and I was also enrolled at the [Scuola Superiore d Toppo Wassermann](https://superiore.uniud.it/en/school/who-are-we?set_language=en).
-- You can find a portfolio with my past projects, ranging from Mathematical Physics to Cryptography at [my website](https://dalcio99.github.io/subpages/portfolio.html).
+- You can find a portfolio with my past projects, ranging from Mathematical Physics to Cryptography at [my website](https://dalcio99.github.io/).
 - If you want, you can reach me at: nic.dalcin[at]gmail.com
